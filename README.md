@@ -2,10 +2,9 @@
 Before running the script, ensure you have the following installed:
 
 
-pip install mcstatus
-pip install termcolor
+pip install mcstatus, 
+pip install termcolor, 
 pip install colorama
-These libraries are essential for resolving server addresses and enhancing the script's output.​
 
 🚀 How to Use
 Clone the Repository:
