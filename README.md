@@ -1,12 +1,10 @@
-🧰 Requirements:  
-pip install mcstatus, 
-pip install termcolor, 
-pip install colorama
+# Shortcut Server Flooder
+Requirements:
 
-🤖 Clone the Repository:  
+Run: `pip install mcstatus termcolor colorama` in cmd prompt.
 
-git clone https://github.com/Shortcut0333/Minecraft-Server-Flooder.git
-cd Minecraft-Server-Flooder
+## Clone this repository:
 
-💻 Run the Script:  
-python start.py
+First: `git clone https://github.com/Shortcut0333/Minecraft-Server-Flooder.git` then: `cd Minecraft-Server-Flooder`.
+
+To run the script: `python start.py`.
